@@ -18,3 +18,6 @@ eg: id="container--main"
 
 Main page: http://127.0.0.1:5500/RESUME-WEBSITE/index.html
 
+GitHub Pages link:
+https://mahanteshtalikoti-git.github.io/RESUME-WEBSITE/
+
